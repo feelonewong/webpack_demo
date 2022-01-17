@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: pink;
+  overflow: hidden;
+}
+
+.abc {
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+  background-image: url(./vue.png);
+}
